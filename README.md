@@ -4,7 +4,7 @@
 This is a new state of the Art concept of a complete automated doorway system which functions on the basis of the inputs fed into the microncontroller like Body temperature and SpO2 level. if the intended 
 parameters are in the optimum level then only the doorway can be accessed otherwise not.
 Microncontroller user: - Arduino UNO R3
-Sensors used: - MLX90614 - IR based Industry graded temperature sensor, MAX30102 - pulse oximter sensor
+Sensors used: - MLX90614 - IR based Industry graded temperature sensor, MAX30102 - pulse oximeter sensor
 Programming Language - Arduino interfaced C++ 
 IDE: - Arduino IDE version 1.8.16
 
