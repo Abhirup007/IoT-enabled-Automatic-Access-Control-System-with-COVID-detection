@@ -1,5 +1,4 @@
 # IoT-enabled-Automatic-Access-Control-System-with-COVID-detection
-# Project Title
 ## Description
 
 This is a new state of the Art concept of a complete automated doorway system which functions on the basis of the inputs fed into the microncontroller like Body temperature and SpO2 level. if the intended 
